@@ -4,4 +4,3 @@ This repository contains python programs for the following Machine Learning Algo
 1. Decision Tree using Gini Index and Enthropy
 2. Linear Regression
 3. Ridge Regression
-4. 
